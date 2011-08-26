@@ -62,6 +62,9 @@
     <Compile Include="SessionFactoryContainer.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="NHQS.nuspec">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
