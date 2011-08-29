@@ -3,7 +3,7 @@ using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("NHQS")]
-[assembly: AssemblyDescription("NHQS - The NHibernate QuickStart Library")]
+[assembly: AssemblyDescription("NHQS, the NHibernate Quick Start, provides a simple Fluent framework for getting started with Fluent NHibernate. It makes life a little easier for 'NH00bs' and greenfield projects.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Brady Gaster")]
 [assembly: AssemblyProduct("NHQS")]

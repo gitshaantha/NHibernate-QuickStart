@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>NHQS</id>
+		<version>1.0.0.0</version>
+		<authors>Brady Gaster</authors>
+		<owners>Brady Gaster</owners>
+		<projectUrl>http://bradygaster.com/nhqs</projectUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>NHQS, the NHibernate Quick Start, provides a simple Fluent framework for getting started with Fluent NHibernate. It makes life a little easier for 'NH00bs' and greenfield projects.</description>
+		<tags>fluent nhibernate dataaccess orm sql rdbms</tags>
+	</metadata>
+</package>
