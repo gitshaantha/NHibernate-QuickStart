@@ -1,0 +1,1 @@
+﻿copy bin\release\*.dll ..\Nuget\lib\
